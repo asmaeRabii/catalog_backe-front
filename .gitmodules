@@ -1,6 +1,0 @@
-[submodule "catalogue-adherent-frontend"]
-	path = catalogue-adherent-frontend
-	url = https://github.com/asmaeRabii/catalog_backe-front
-[submodule "catalogue-admin"]
-	path = catalogue-admin
-	url = https://github.com/asmaeRabii/catalog_backe-front
